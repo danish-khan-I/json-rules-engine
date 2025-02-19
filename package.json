@@ -1,5 +1,5 @@
 {
-  "name": "json-rules-engine",
+  "name": "json-rules-engine2",
   "version": "7.3.1",
   "description": "Rules Engine expressed in simple json",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cachecontrol/json-rules-engine"
+    "url": "https://github.com/danish-khan-i/json-rules-engine2"
   },
   "keywords": [
     "rules",
